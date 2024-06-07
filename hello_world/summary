@@ -1,0 +1,12 @@
+- lines ending in semicolon :( it still prints without semicolon?
+- Rustaceans? how do you pronounce that?
+
+-commands 
+rustc main.rs
+cargo new hello_app
+cargo build => output in /target/debug directory
+cargo run
+cargo check
+cargo build --release => output in /target/release directory
+
+
